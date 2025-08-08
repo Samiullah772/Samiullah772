@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiullah772" alt="samiullah772" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,NodeJs**
+- 🌱 I’m currently working in Culyte as a **Flutter Developer**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter - Node js**
 
-- 📫 How to reach me **su0355486@gmail.com**
+- 📫 How to reach me **isamullah.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
